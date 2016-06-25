@@ -10,7 +10,6 @@ To pull the audio files you will need to install [git-lfs](https://git-lfs.githu
 
 ```
 brew install git-lfs
-git lfs install
 # clone the repo as you would normally do
 # enter directory
 git lfs pull
