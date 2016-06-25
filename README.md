@@ -5,6 +5,17 @@ This repository contains all the materials contributed by [Brooklyn Public Libra
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+git lfs install
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o) by [Brooklyn Public Library](https://www.bklynlibrary.org/) is an oral history project of the Brooklyn Public Library’s Department of Outreach Services that seeks to explore the Brooklyn that is, and the Brooklyn that was, from the words of the community that lives there. The project aims to actively collect a broad range of stories from our diverse neighborhoods, so that future generations may better understand the history of the borough.
 
